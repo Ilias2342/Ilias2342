@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="" content="">
+    <title>Ilias's Bio</title>
+  </head>
+  
+<body>
+  <img src="https://lh3.googleusercontent.com/eO9R5VX7C9RM_y_vXwTvN8jE1eJPX1r49TyGNlDZBttFIHIUTMiXPRsxPAq5w4gWcPsHuA=s97" alt="my face">
+  <hr size=3 >
+  <h1> <strong>Ilias bio</strong></h1>
+  <hr size=3>
+  
+  <h3>ilias hobbies.</h3>
+  
+    <ul><li><i><strong>Sports:</strong></i></li></ul>
+    
+   <ol>
+
+  <li>gym</li>
+  <li>football</li>
+  <li>basketball</li>
+  
+  </ol>
+  
+  <ul>
+    <li><i><strong>Music:</strong></i>
+    </li>
+  </ul>
+  
+  <ol>
+    <li>guitar</li>
+    <li> listening blues and jazz</li>
+  </ol>
+  
+  <hr size=2>
+  
+    <h3 style="color:red;" >ilias studies.</h3>
+ <ul>
+  <li>
+    <i><strong>high-school</strong></i>
+  </li>
+<li>
+  <i><strong>bachelor</strong></i></ol>
+</li>
+</ul>
+
+    
+  
+ <hr size=2>
+ <p> <em>■ sources i used to develope my self on web developement as a biginer.</em></p>
+ <ol>
+   <li><a href="www.udemy.com" >this links to udemy.com</a></li>
+   <li><a href="www.freecodecamp.com">click to  get your certfication in programming </a> </li>
+   <li><a href="codepen.io">best coding compiler online </a></li>
+   
+   
+   
+ </ol>
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <footer> copyright by <em>ilias<em></footer>
+</body>
+</html>
